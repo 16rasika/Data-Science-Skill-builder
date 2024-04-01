@@ -1,6 +1,9 @@
 
 ## Deep Learning
 
-## 1 . Sentiment Analysis with IMDB dataset
+##  Sentiment Analysis with IMDB dataset
 
+## Machine Learning 
+
+## Super-store analysis
 
