@@ -8,6 +8,8 @@
 
 ## Tableau
 1.Heart Diseases
+2.British Airways
+3.Amazon-prime
 
 ## Data Analysis
 1.Covid-19
