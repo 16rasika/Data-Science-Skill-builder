@@ -26,7 +26,7 @@
 
 ## Deep Learning
 1. Image Processing
-2. 
+   
 2.Sentiment Analysis 
 
 ## Machine Learning 
