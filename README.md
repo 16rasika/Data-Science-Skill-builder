@@ -5,6 +5,7 @@
 3.Netflix
 4.Super-store
 5.Tata
+6.HR-Analysis
 
 ## Tableau
 1.Heart Diseases
