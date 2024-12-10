@@ -12,6 +12,10 @@
 
 6.HR-Analysis
 
+7. Flights-delay-status
+   ![star-schema](https://github.com/user-attachments/assets/b5f717a6-ff96-426b-93d3-7e8c69b7dfe7)
+
+
 ## Tableau
 1.Heart Diseases
 
